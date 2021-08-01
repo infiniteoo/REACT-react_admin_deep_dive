@@ -17,6 +17,15 @@
       "title": "Post Three",
       "body": "This is the post body",
       "publishedAt": "10-01-2021"
+    },
+    {
+      "id": "birtgp3"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is the body",
+      "publishedAt": "10-02-2021",
+      "id": "y2LtN8S"
     }
   ],
   "users": [
