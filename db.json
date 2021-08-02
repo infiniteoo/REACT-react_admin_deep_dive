@@ -2,15 +2,15 @@
   "posts": [
     {
       "id": "1",
-      "title": "Post One",
+      "title": "Post Number One",
       "body": "This is the post body",
-      "publishedAt": "10-01-2021"
+      "publishedAt": "2021-10-01"
     },
     {
       "id": "2",
-      "title": "Post Two",
+      "title": "Post Number Two",
       "body": "This is the post body",
-      "publishedAt": "10-01-2021"
+      "publishedAt": "2021-10-01"
     },
     {
       "title": "Post Four",
@@ -19,10 +19,10 @@
       "id": "y2LtN8S"
     },
     {
-      "title": "Post Three",
-      "body": "This is post number three",
-      "publishedAt": "2021-08-02",
-      "id": "egd9P_-"
+      "title": "Post Number Five",
+      "body": "This is the body of post #5",
+      "publishedAt": "2021-08-03",
+      "id": "ZIlczKk"
     }
   ],
   "users": [
